@@ -1,0 +1,14 @@
+Package: preferenceloader
+Version: 2.2.4~alpha1
+Architecture: iphoneos-arm
+Maintainer: hooyeah
+Depends: 
+Filename: /preferenceloader.deb
+Size: 49862
+MD5sum: eb8cd7a434e9ab019ab775d19442eccd
+SHA1: 03effe4e7f4de1c989e56a90a00cf5733b41c4e5
+SHA256: ceb588c748462eee5a7c9ddd562d179821a187ced1e89fa836f2e3d51c79a2c1
+Section: Dependence
+Description: enable settings for tweaks
+Author: hooyeah
+Name:  PreferenceLoader
