@@ -1,8 +1,7 @@
-Package: preferenceloader
+Package: com.hooyeah.preferenceloader
 Version: 2.2.4~alpha1
 Architecture: iphoneos-arm
 Maintainer: hooyeah
-Depends: 
 Filename: /preferenceloader.deb
 Size: 49862
 MD5sum: eb8cd7a434e9ab019ab775d19442eccd
