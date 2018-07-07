@@ -11,3 +11,17 @@ Section: Dependence
 Description: enable settings for tweaks
 Author: hooyeah
 Name:  PreferenceLoader
+
+Package: com.hooyeah.youkudisablead
+Version: 0.3-1
+Architecture: iphoneos-arm
+Maintainer: hooyeah
+Filename: /youkudisablead.deb
+Size: 84540
+MD5sum: 5df3d04d34fb94e97215cdba52ca67d0
+SHA1: 4d8b39fb8cfad9aace5c8208fc43e9fbf8ec1374
+SHA256: ede75db8cc6d49e136d916b67b0a3104786ab767110ed675779d8cadc8f8d40b
+Section: Tweak
+Description: YoukuDisableAd
+Author: hooyeah
+Name:  YoukuDisableAd
